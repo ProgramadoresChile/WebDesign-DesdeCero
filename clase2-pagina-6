@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="64x64" href="favicon.webp">
+    <title>Nombre Pestaña Chrome | Texto que describe mi Web </title>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <script src="js/script.js" type="text/javascript"></script>
+    
+</head>
+
+<body>
+
+    <h1>Soy Texto dentro de una Etiqueta H1</h1>
+
+</body>
+
+</html>
